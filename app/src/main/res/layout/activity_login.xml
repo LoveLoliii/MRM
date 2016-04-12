@@ -7,7 +7,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.summersama.pma.MainActivity">
+    tools:context="com.ss.mrm.LoginActivity">
 
 
     <TextView
@@ -17,6 +17,7 @@
         android:textStyle="bold"
         android:textSize="60dp"
         android:textColor="#e1377de6"
+
         />
     <EditText
         android:layout_width="match_parent"
