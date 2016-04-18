@@ -57,8 +57,7 @@ public class LoginActivity extends AppCompatActivity {
             }
             Log.i("main", "用户名:" + strUserName + "密码：" + strPassword);
              Intent intent = new Intent(LoginActivity.this, MainActivity.class);
-            startActivity(intent);
-           // overridePendingTransition(R.anim.in_from_right, R.anim.out_to_left);
+             startActivity(intent);
         }
     }
 }

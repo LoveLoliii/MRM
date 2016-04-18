@@ -21,15 +21,7 @@
         <activity
             android:name=".MainActivity"
             android:label="@string/title_activity_main"
-            android:theme="@style/AppTheme" />
-        <activity
-            android:name=".page2Activity.Page2ActivityUserImage"
-            android:label="@string/title_activity_page2_activity_user_image"
-            android:theme="@style/AppTheme" />
-        <activity android:name=".page2Activity.Page2ActivityCRecorder" />
-        <activity android:name=".page2Activity.Page2ActivityNRecorder" />
-        <activity android:name=".page2Activity.Page2ActivityJManage" />
-        <activity android:name=".page2Activity.Page2ActivityAbout"></activity>
+            android:theme="@style/AppTheme"></activity>
     </application>
 
 </manifest>
