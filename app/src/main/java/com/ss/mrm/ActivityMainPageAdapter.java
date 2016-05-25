@@ -5,7 +5,6 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import java.util.List;
-
 /**
  * Created by woshi on 2016/4/6.
  */
